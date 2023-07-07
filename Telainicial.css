@@ -1,0 +1,37 @@
+#titulo{
+    text-align: center;
+    color: #FED403;
+    font-size: 3rem;
+    text-align: center;
+    -webkit-text-stroke: 1px white;
+}
+#fundo{
+    background-color:#101010;
+}
+#subtitulo{
+    text-align: center;
+    color:#FFFFFF;
+    font-size: 19px;
+    -webkit-text-stroke: 0.5px #350236;
+
+}
+#botao {
+    background-color: #FED403;
+    border-color: #FED403;
+    width: 50%;
+    border-radius: 30px;
+    height: 100%;
+    -webkit-text-stroke: 0.4px #350236;
+    color: #350236;
+    font-size: 23px;
+}
+#botao2{
+    text-align: center;
+}
+#aa{
+    padding-top: 6px;
+    color: white;
+}
+#col{
+    text-align: center;
+}

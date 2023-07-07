@@ -1,0 +1,61 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&display=swap');
+
+
+@media screen and (max-width: 768px) {
+  /* Estilos para dispositivos com largura máxima de 768 pixels */
+  /* Ajuste o layout conforme necessário */
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+#saldo{
+    text-align: center;
+    border-color: #FED403;
+    width: 100%;
+    height: 100%;
+    font-size: 23px;
+  }
+#nav{
+    text-align: center;
+    background-color: #FED403;
+    border-color: #FED403;
+    width: 100%;
+    height: 100%;
+    -webkit-text-stroke: 0.4px #350236;
+    color: #350236;
+    font-size: 23px;
+  }
+  #valor{
+    display: flex;
+    justify-content: center;
+  }
+  #nav1{
+    text-align: center;
+    background-color:rgba(153, 10, 64, 0.22);
+    border-color: rgba(153, 10, 64, 0.22);
+    width: 100%;
+    height: 100%;
+    -webkit-text-stroke: 0.4px white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  #carteira{
+    text-align: center;
+  }
+  #fundo{
+    background-color: #101010;
+}
+#nav2{
+  text-align: center;
+  background-color:rgba(153, 10, 64, 0.22);
+  border-color: rgba(153, 10, 64, 0.22);
+  width: 100%;
+  height: 100%;
+  -webkit-text-stroke: 0.4px white;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}

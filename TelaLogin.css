@@ -1,0 +1,101 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#fundo{
+    background-color: #101010;
+}
+#titulo{
+    text-align: center;
+    color: #FED403;
+    font-size: 3rem;
+    text-align: center;
+    -webkit-text-stroke: 1px white;
+}
+  #linha{
+    color:white;padding-left: 12%;
+  }
+  #subtitulo{
+    text-align: center;
+    color:#FFFFFF;
+    font-size: 19px;
+    -webkit-text-stroke: 0.5px #350236;
+  }
+  #email{
+    text-align: center;
+  }
+  #nome{
+    text-align: center;
+    color:#FFFFFF;
+    font-size: 19px;
+  }
+  #campo{
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  #senha{
+    text-align: center;
+  }
+  #nome1{
+    text-align: center;
+    color:#FFFFFF;
+    font-size: 19px;
+  }
+  #campo1{
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  #botao2{
+    text-align: center;
+}
+  #botao {
+    text-align: center;
+    background-color: #FED403;
+    border-color: #FED403;
+    width: 83%;
+    border-radius: 30px;
+    height: 100%;
+    -webkit-text-stroke: 0.4px #350236;
+    color: #350236;
+    font-size: 23px;
+  }
+  #aa{
+    text-align: center;
+    padding-top: 6px;
+    color: white;
+}
+#col{
+    text-align-last: center;
+}
+#botao3{
+    text-align: center;
+}
+#botao4 {
+    text-align: center;
+    background-color: #FED403;
+    border-color: #FED403;
+    width: 83%;
+    border-radius: 30px;
+    height: 100%;
+    -webkit-text-stroke: 0.4px #350236;
+    color: #350236;
+    font-size: 23px;
+  }
+  #aa2{
+    text-align: center;
+    padding-top: 6px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+#col2{
+    text-align-last: center;
+}
+
+hr.new1 {
+  border-top: 3px solid yellow;
+  width: 110%;
+}
